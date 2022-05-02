@@ -4,7 +4,7 @@ A **Chinese version textbook** of UC Berkeley CS285 Deep Reinforcement Learning 
 
 A website version can be viewed on [my personal blog](https://bluesquinn777.github.io/), enjoy!
 
-伯克利大学 CS285 深度强化学习 2021 秋季课程. 网页 PDF 版本请移步至我的 [个人网站](https://bluesquinn777.github.io/). 任何错误烦请联系我 qiuchen.qian19@imperial.ac.uk, 谢谢!
+伯克利大学 CS285 深度强化学习 2021 秋季课程. 任何错误烦请联系我 qiuchen.qian19@imperial.ac.uk, 谢谢!
 
 ---
 
